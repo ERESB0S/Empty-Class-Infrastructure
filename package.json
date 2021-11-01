@@ -1,0 +1,16 @@
+{
+	"name": "eresbos",
+	"version": "1.0.0",
+	"description": "",
+	"main": "eresbos.js",
+	"author": "Eresbos",
+	"license": "MIT",
+	"dependencies": {
+		"discord.js": "^13.1.0",
+		"fs": "^0.0.1-security"
+	},
+	"devDependencies": {
+		"eslint": "^7.32.0",
+		"prettier": "^2.3.2"
+	}
+}
