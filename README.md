@@ -1,6 +1,6 @@
 ## Eresbos Class Altyapı
 
-Öncelikle herkese merhaba 👋. Hazırlamış olduğum bu boş class altyapıyı sizlerle paylaşıyorum. Paylaşma amacım sizlerin de bir şeyler öğrenip deneyip kendinizi geliştirmenizi istememdir. Projede MIT lisansı bulunmaktadır. Her hangi bir ücretli satım veya kendi yapmış gibi gösterme durumunda gerekli işlemler başlatılacaktır.
+Öncelikle herkese merhaba 👋. Hazırlamış olduğum bu boş class altyapıyı sizlerle paylaşıyorum. Paylaşma amacım sizlerin de bir şeyler öğrenip deneyip kendinizi geliştirmenizi istememdir.
 
 ### Kurulum Aşamaları:
 
@@ -21,3 +21,5 @@
 #### 🙏 Teşekkürler
 
 Projemi kullanıp bana destek olan herkese teşekkür ederim. Bana [**Eresbos#1706**](https://discord.com/users/239330400223232000) isimli hesap üzerinden veya [**Discord Sunucumdan**](https://discord.gg/mdnPen7KWy) ulaşabilirsiniz.
+
+### NOT: Botta MIT lisansı bulunmaktadır. Bu botun dosyalarının benden habersiz paylaşılması/satılması durumunda gerekli işlemler yapılacaktır!
